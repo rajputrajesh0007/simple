@@ -1,0 +1,14 @@
+.post{
+    background: gold;
+    font-size: 20px;
+    padding: 10px;
+}
+.postonload{
+    background: chartreuse;
+    font-size: 20px;
+    padding: 10px;
+}
+#title{
+    background: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
